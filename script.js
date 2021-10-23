@@ -1,6 +1,5 @@
 let si=document.getElementById('si');
 si.addEventListener("click",function(e){
-  alert("Sabía que aceptarías");
 });
 
 let no=document.getElementById('no');
